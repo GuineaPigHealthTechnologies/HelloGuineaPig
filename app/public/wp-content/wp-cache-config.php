@@ -32,7 +32,7 @@ $cache_rebuild_files = 1;
 $wp_cache_mutex_disabled = 1;
 
 // Just modify it if you have conflicts with semaphores
-$sem_id = 5419;
+$sem_id = 2105980551;
 
 if ( '/' != substr($cache_path, -1)) {
 	$cache_path .= '/';
